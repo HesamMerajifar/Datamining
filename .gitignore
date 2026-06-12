@@ -33,7 +33,6 @@ virtualenv/
 .DS_Store
 
 # Data files (large datasets)
-*.csv
 *.xlsx
 *.xls
 *.json
