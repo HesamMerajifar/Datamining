@@ -15,7 +15,7 @@ venv.bak/
 .ipynb_checkpoints/
 *.ipynb_checkpoints*
 .ipynb_checkpoints
-*.ipynb
+# *.ipynb
 !*.ipynb  # Uncomment if you want to keep notebooks
 
 # Virtual environments
